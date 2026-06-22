@@ -4,10 +4,10 @@
 [![Coverage](https://img.shields.io/badge/coverage-85%25-green)](https://github.com/amoghvh/billrun)
 [![Docker](https://img.shields.io/badge/docker-ready-blue)](https://github.com/amoghvh/billrun)
 
-**A production-grade billing system that handles idempotent event ingestion, real-time counters, and reliable webhook delivery.**
+**A production-grade billing system that handles idempotent event ingestion, real-time counters, and reliable webhook delivery.**
+
 
 ## Why I Built This
-
 Usage-based pricing is everywhere (Stripe, OpenAI, AWS). Most engineers can build CRUD apps, but few understand:
 - Idempotency at database isolation level
 - Materialized counters vs. event replay
