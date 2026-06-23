@@ -39,7 +39,7 @@ Rather than summing events at bill time (O(n) scan), counters are updated increm
 Webhook deliveries include `Idempotency-Key: {bill_id}` header. Customers can safely retry without double-processing.
 
 ## Quick Start
-```bash
+bash
 # Clone and run
 git clone https://github.com/amoghvh/billrun
 cd billrun
