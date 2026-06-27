@@ -6,3 +6,4 @@ postgres_data/
 logs/
 .pytest_cache/
 .DS_Store
+
